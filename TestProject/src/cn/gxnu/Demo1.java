@@ -6,5 +6,9 @@ public class Demo1 {
 	void t1(){
 		
 	}
+	//李四
+	
+	void t2(){
+	}
 
 }
