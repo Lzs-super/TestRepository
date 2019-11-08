@@ -2,7 +2,7 @@ package cn.gxnu;
 
 public class Demo1 {
 	
-	//Õ½Èý
+	//æˆ˜ä¸‰
 	void t1(){
 		
 	}
